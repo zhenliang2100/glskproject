@@ -1,4 +1,5 @@
 const path = require('path');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = function override(config, env) {
   config.entry = {
@@ -10,9 +11,34 @@ module.exports = function override(config, env) {
 
   config.output = {
     ...config.output,
-    filename: 'static/js/[name].js',
+    filename: 'static/js/[name].[contenthash:8].js',
     path: path.resolve(__dirname, 'build'),
+    clean: true,
   };
+
+  config.plugins = [
+    ...config.plugins.filter(plugin => !(plugin instanceof HtmlWebpackPlugin)),
+    new HtmlWebpackPlugin({
+      template: './public/index.html',
+      filename: 'index.html',
+      chunks: ['main'],
+    }),
+    new HtmlWebpackPlugin({
+      template: './public/qwassistant.html',
+      filename: 'qwassistant.html',
+      chunks: ['qwassistant'],
+    }),
+    new HtmlWebpackPlugin({
+      template: './public/coursetabletview.html',
+      filename: 'coursetabletview.html',
+      chunks: ['coursetabletview'],
+    }),
+    new HtmlWebpackPlugin({
+      template: './public/coursebackend.html',
+      filename: 'coursebackend.html',
+      chunks: ['coursebackend'],
+    }),
+  ];
 
   return config;
 };
