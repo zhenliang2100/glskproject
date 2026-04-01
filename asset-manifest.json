@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/glskproject/static/css/main.30662b06.css",
-    "main.js": "/glskproject/static/js/main.f61e0191.js",
-    "qwassistant.css": "/glskproject/static/css/qwassistant.d3e8fd79.css",
+    "main.css": "/glskproject/static/css/main.0f89ab44.css",
+    "main.js": "/glskproject/static/js/main.0ae16b87.js",
+    "qwassistant.css": "/glskproject/static/css/qwassistant.e9c5a5a2.css",
     "qwassistant.js": "/glskproject/static/js/qwassistant.550dbba0.js",
-    "coursetabletview.css": "/glskproject/static/css/coursetabletview.d3e8fd79.css",
+    "coursetabletview.css": "/glskproject/static/css/coursetabletview.e9c5a5a2.css",
     "coursetabletview.js": "/glskproject/static/js/coursetabletview.71a626ce.js",
-    "coursebackend.css": "/glskproject/static/css/coursebackend.d3e8fd79.css",
-    "coursebackend.js": "/glskproject/static/js/coursebackend.249b6a18.js",
+    "coursebackend.css": "/glskproject/static/css/coursebackend.e9c5a5a2.css",
+    "coursebackend.js": "/glskproject/static/js/coursebackend.e0d33cbb.js",
     "static/js/453.e29af58b.chunk.js": "/glskproject/static/js/453.e29af58b.chunk.js",
     "index.html": "/glskproject/index.html",
     "coursetabletview.html": "/glskproject/coursetabletview.html",
     "coursebackend.html": "/glskproject/coursebackend.html",
     "qwassistant.html": "/glskproject/qwassistant.html",
-    "main.30662b06.css.map": "/glskproject/static/css/main.30662b06.css.map",
-    "main.f61e0191.js.map": "/glskproject/static/js/main.f61e0191.js.map",
-    "qwassistant.d3e8fd79.css.map": "/glskproject/static/css/qwassistant.d3e8fd79.css.map",
+    "main.0f89ab44.css.map": "/glskproject/static/css/main.0f89ab44.css.map",
+    "main.0ae16b87.js.map": "/glskproject/static/js/main.0ae16b87.js.map",
+    "qwassistant.e9c5a5a2.css.map": "/glskproject/static/css/qwassistant.e9c5a5a2.css.map",
     "qwassistant.550dbba0.js.map": "/glskproject/static/js/qwassistant.550dbba0.js.map",
-    "coursetabletview.d3e8fd79.css.map": "/glskproject/static/css/coursetabletview.d3e8fd79.css.map",
+    "coursetabletview.e9c5a5a2.css.map": "/glskproject/static/css/coursetabletview.e9c5a5a2.css.map",
     "coursetabletview.71a626ce.js.map": "/glskproject/static/js/coursetabletview.71a626ce.js.map",
-    "coursebackend.d3e8fd79.css.map": "/glskproject/static/css/coursebackend.d3e8fd79.css.map",
-    "coursebackend.249b6a18.js.map": "/glskproject/static/js/coursebackend.249b6a18.js.map",
+    "coursebackend.e9c5a5a2.css.map": "/glskproject/static/css/coursebackend.e9c5a5a2.css.map",
+    "coursebackend.e0d33cbb.js.map": "/glskproject/static/js/coursebackend.e0d33cbb.js.map",
     "453.e29af58b.chunk.js.map": "/glskproject/static/js/453.e29af58b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30662b06.css",
-    "static/js/main.f61e0191.js"
+    "static/css/main.0f89ab44.css",
+    "static/js/main.0ae16b87.js"
   ]
 }
