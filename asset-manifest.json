@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/glskproject/static/css/main.f855e6bc.css",
-    "main.js": "/glskproject/static/js/main.e055953b.js",
+    "main.js": "/glskproject/static/js/main.bfe3ed79.js",
     "static/js/453.e29af58b.chunk.js": "/glskproject/static/js/453.e29af58b.chunk.js",
     "index.html": "/glskproject/index.html",
     "main.f855e6bc.css.map": "/glskproject/static/css/main.f855e6bc.css.map",
-    "main.e055953b.js.map": "/glskproject/static/js/main.e055953b.js.map",
+    "main.bfe3ed79.js.map": "/glskproject/static/js/main.bfe3ed79.js.map",
     "453.e29af58b.chunk.js.map": "/glskproject/static/js/453.e29af58b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e055953b.js"
+    "static/js/main.bfe3ed79.js"
   ]
 }
