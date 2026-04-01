@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://<your-username>.github.io/glskproject",
+  "homepage": "https://zhenliang2100.github.io/glskproject",
   "eslintConfig": {
     "extends": [
       "react-app",
