@@ -1,4 +1,4 @@
-import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import QwAssistantPage from './202604/QwAssistantPage';
 import CourseTabletViewPage from './202604/CourseTabletViewPage';
 import CourseBackendPage from './202604/CourseBackendPage';
@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/glskproject">
       <div className="App">
         <header className="App-header">
           <h1>GLSK Project - 202604</h1>
